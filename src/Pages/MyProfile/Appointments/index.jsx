@@ -4,7 +4,8 @@ import Card from 'react-bootstrap/Card'
 import Table from 'react-bootstrap/Table'
 import { LoadingSpinner } from "../../../components/LoadingSpinner";
 import './Appointment.css'
-import axios from "axios";
+// import axios from "axios";
+import axios from "../../../http/Api";
 import {  MapComponent } from "../../Professional/MapComponent";
 
 

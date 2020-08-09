@@ -1,6 +1,7 @@
 import React, {useState,useEffect} from 'react'
 import { LoginForm } from "./LoginForm";
-import axios from 'axios'
+// import axios from 'axios'
+import axios from '../../http/Api'
 import { AlertComp } from "../../components/AlertComp";
 
 import { AlertFactory } from "../../Factory/Alertfactory";

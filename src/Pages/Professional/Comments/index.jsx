@@ -1,6 +1,7 @@
 import React, {useState,useEffect} from 'react'
 import Card from 'react-bootstrap/Card'
-import Axios from 'axios'
+// import Axios from 'axios'
+import Axios from "../../../http/Api";
 import "./Comments.css"
 import { FormHoc } from "../../../HOC/FormHoc";
 import {  CommentForm } from "./CommentsForm";

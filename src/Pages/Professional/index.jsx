@@ -1,7 +1,8 @@
 import React, {useEffect,useState} from "react"
 import Card from 'react-bootstrap/Card'
 import { Link } from 'react-router-dom';
-import axios from "axios";
+// import axios from "axios";
+import axios from "../../http/Api";
 import Tabs from 'react-bootstrap/Tabs'
 import Tab from 'react-bootstrap/Tab'
 import ListGroup from 'react-bootstrap/ListGroup'

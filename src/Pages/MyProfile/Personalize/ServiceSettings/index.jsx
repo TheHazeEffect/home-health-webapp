@@ -3,7 +3,8 @@ import React, {useState,useEffect} from "react";
 import  {ServiceList}  from "./ServiceList";
 import   {AddServiceForm}  from "./AddServiceForm";
 import {  connect } from "react-redux";
-import axios from 'axios'
+// import axios from 'axios'
+import axios from '../../../../http/Api'
 import Button from 'react-bootstrap/Button'
 
 const ServiceSettings  = ({user}) => {

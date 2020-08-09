@@ -1,7 +1,8 @@
 import React, {useEffect,useState} from "react"
 import Card from 'react-bootstrap/Card'
 import { Link } from 'react-router-dom';
-import axios from "axios";
+// import axios from "axios";
+import axios from "../../http/Api";
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import CardDeck from 'react-bootstrap/CardDeck'

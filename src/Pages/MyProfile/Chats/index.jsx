@@ -1,5 +1,6 @@
 import React,{useState,useEffect} from "react";
-import axios from 'axios';
+// import axios from 'axios';
+import axios from '../../../http/Api';
 import Accordion from 'react-bootstrap/Accordion'
 import Card from 'react-bootstrap/Card'
 import Form from 'react-bootstrap/Form'
