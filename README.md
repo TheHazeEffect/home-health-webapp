@@ -1,5 +1,7 @@
 # Home Health Medical Professional Locator (web App)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e54afe97-2c0b-462c-b0b3-fc901b12aa9e/deploy-status)](https://app.netlify.com/sites/homehealth/deploys)
+
 Repository for the Home Health Medical Professional Location Web App.
 Built with [React](https://reactjs.org/).
 
