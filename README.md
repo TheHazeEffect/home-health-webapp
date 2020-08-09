@@ -1,7 +1,4 @@
-# Home Health Medical Professional Locator (web app)
-
-[![pipeline status](https://gitlab.com/troyanderson.d/home-health-medical-professional-locator/Home/pipeline.svg)](https://gitlab.com/troyanderson.d/home-health-medical-professional-locator/commits/master)
-[![coverage report](https://gitlab.com/troyanderson.d/home-health-medical-professional-locator/badges/master/coverage.svg)](https://gitlab.com/troyanderson.d/home-health-medical-professional-locator/commits/master)
+# Home Health Medical Professional Locator (web App)
 
 Repository for the Home Health Medical Professional Location Web App.
 Built with [React](https://reactjs.org/).
